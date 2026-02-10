@@ -1,4 +1,6 @@
 # Web Scraping Nigeria’s Personal Loan Market
+![wb scraping imag](https://github.com/user-attachments/assets/a1570c89-541d-43bd-9c73-910a41e4af25)
+
 
 ## Objective
 

@@ -8,11 +8,9 @@ This project demonstrates how web scraping can be used to create structured data
 
 How transparent are Nigerian personal loan providers about pricing and loan terms before a customer applies? How other financial services can compete?
 
-There is no public dataset that answers this question.  
-The data exists only across individual lender websites.  
+There is no public dataset that answers this question. The data exists only across individual lender websites.  
 In a competitive financial landscape, interest rates and terms (fees, penalties, collateral) change constantly.  
-For a business, staying competitive requires real-time monitoring.  
-For a consumer, finding the true cost of a loan is often buried behind marketing walls.
+For a business, staying competitive requires real-time monitoring. For a consumer, finding the true cost of a loan is often buried behind marketing walls.
 
 ---
 
